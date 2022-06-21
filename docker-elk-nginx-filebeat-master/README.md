@@ -5,12 +5,6 @@ This is extended version from [ELK on Docker](https://github.com/deviantony/dock
 ## What 's insides 
 
 ```
-├── app
-│   ├── package.json
-│   ├── package-lock.json
-│   ├── src
-│   │   └── index.js
-│   └── yarn.lock
 ├── elasticsearch
 │   ├── config
 │   │   └── elasticsearch.yml
@@ -58,4 +52,4 @@ Then go to `http://localhost:5601` to see your data in Kibana
 
 Default Kibana user information
 - Username: elastic
-- Password: changeme
+- Password: changeme%
